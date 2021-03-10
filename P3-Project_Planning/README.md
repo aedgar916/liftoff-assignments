@@ -9,16 +9,24 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * Login/Sign Up Wireframes - https://drive.google.com/file/d/1qehl1gif4ZeKyeYKI6d-xE9CoiQ9xYO3/view?usp=sharing
-    ![login/sign up wireframes](file:///Users/erinklinkhardt/Desktop/Meal%20Plan%20Website/Login_Sign%20Up.png)
+    ![Login_Sign Up](https://user-images.githubusercontent.com/74781509/110676551-b2856c80-8199-11eb-8e97-5e8ae3942079.png)
+    
+    
     
 * Entries Wireframes - https://drive.google.com/file/d/16XUocoyLCSPw2rRk9iZwaFyowJFvYRDf/view?usp=sharing
-    ![entries wireframs](file:///Users/erinklinkhardt/Desktop/Meal%20Plan%20Website/Entries.png)
+    ![Entries](https://user-images.githubusercontent.com/74781509/110676604-c29d4c00-8199-11eb-97e8-68b12349a841.png)
+    
+    
     
 * Meal Plan Wireframe - https://drive.google.com/file/d/1bZromdJlrfgnjWXCPPnWkpMf6LoUDNUc/view?usp=sharing
-    ![meal plan wireframe](file:///Users/erinklinkhardt/Desktop/Meal%20Plan%20Website/Meal%20Plan.png)
+    ![Meal Plan](https://user-images.githubusercontent.com/74781509/110676648-ccbf4a80-8199-11eb-93d4-02e7d39463bd.png)
+    
+    
     
 * Recipe List Wireframes - https://drive.google.com/file/d/1v_wm064MHnJWaT6YpPzpEZGwRapScREV/view?usp=sharing
-    ![recipe list wireframes](file:///Users/erinklinkhardt/Desktop/Meal%20Plan%20Website/Recipes.png)
+    ![Recipes](https://user-images.githubusercontent.com/74781509/110676312-6f2afe00-8199-11eb-8a6c-631c2ced5776.png)
+    
+    
     
     
 
